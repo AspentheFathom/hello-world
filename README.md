@@ -1,3 +1,3 @@
 # hello-world
 I need a 'Hello World' Testing repository
-My GitHub wouldn't be complete without a 'Hello World' repository. 
+What would a GitHub account be without a 'Hello World' repository? As a GitHub account holder it is a duty to initiate the account with a 'Hello World' repository. 
